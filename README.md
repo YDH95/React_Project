@@ -1,3 +1,8 @@
+# 일정관리 프로젝트
+
+![image](https://user-images.githubusercontent.com/76209798/209162098-8c7998fb-ab0d-481b-a17b-6299881218ce.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
